@@ -175,20 +175,7 @@ src/
 - **Product Details**: View detailed information about products.
 - **Cart**: Add, remove, and manage items in your shopping cart.
 - **User Account**: Register, log in, and manage account details.
-
----
-
-## **Screenshots**
-
-### **Homepage**
-![Homepage](https://via.placeholder.com/800x400)
-
-### **Shop Page**
-![Shop Page](https://via.placeholder.com/800x400)
-
-### **Product Details**
-![Product Details](https://via.placeholder.com/800x400)
-
+  
 ---
 
 ## **Contributing**
