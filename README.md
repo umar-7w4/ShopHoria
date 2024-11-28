@@ -99,14 +99,6 @@ ShopHoria is a cutting-edge e-commerce platform built to provide users with a se
 3. Explore products, add them to your cart, and proceed to checkout.
 4. Admin users can log in to access the admin dashboard for managing the platform.
 
----
-
-## **Screenshots**
-
-![Homepage Screenshot](https://via.placeholder.com/600x400)  
-*Caption: Example of the ShopHoria homepage.*
-
----
 
 ## **Contributing**
 
