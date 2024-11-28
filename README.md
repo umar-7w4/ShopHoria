@@ -1,7 +1,3 @@
-Here’s an **excellent README.md** template for your **ShopHoria** project. This format is professional and comprehensive, covering all essential aspects of your project:
-
----
-
 # **ShopHoria**
 
 An elegant e-commerce platform designed for modern shopping needs, combining simplicity, efficiency, and a delightful user experience.
@@ -143,8 +139,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - **Author**: Umar Mohammad  
 - **GitHub**: [umar-7w4](https://github.com/umar-7w4)  
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-
----
-
-Let me know if you’d like any specific sections added or customized!
