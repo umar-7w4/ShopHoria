@@ -1,7 +1,7 @@
 # **ShopHoria**
 
 ShopHoria is a modern and feature-rich e-commerce platform designed to deliver a seamless shopping experience. With a modular component architecture, state management using Redux, and a responsive layout built with Tailwind CSS, it offers robust functionality for both end-users and administrators.
-
+ 
 ---
 
 ## **Table of Contents**
